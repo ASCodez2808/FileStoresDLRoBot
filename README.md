@@ -16,14 +16,13 @@ How to create bot?
 ## Command description
 It is file header:
 
-    /*CMD
-      start - Check bot alive or not
-      upload - Upload multiple files
-      myfiles - Get my files
-      deletefiles - Delete your files
-      deleteuserfiles - Delete users files [Admin only]
-      ban - Ban users [Admin only]
-      unban - Unban users [Admin only] 
-      stats - Bot stats [Admin only]
-      maintenance - Bot maintenance [Admin only]
-      broadcast - Send messages to users [Admin only]CMD*/
+    start - Check bot alive or not
+    upload - Upload multiple files
+    myfiles - Get my files
+    deletefiles - Delete your files
+    deleteuserfiles - Delete users files [Admin only]
+    ban - Ban users [Admin only]
+    unban - Unban users [Admin only] 
+    stats - Bot stats [Admin only]
+    maintenance - Bot maintenance [Admin only]
+    broadcast - Send messages to users [Admin only]
