@@ -1,4 +1,4 @@
-## Bot Made By [@ASCodeZ](https://t.me/ASCodeZ)
+## File Store Bot Made By [ASCodeZ](https://t.me/ASCodeZ)
 It is repository for file Store bot: [@FileStoresDLRobot](https://t.me/FileStoresDLRobot)
 
 ## What's new?
