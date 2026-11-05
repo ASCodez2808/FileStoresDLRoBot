@@ -1,12 +1,9 @@
 # Cloned bot: FileStoresDLRobot - chat bot
-It is repository for chat bot: [@Cloned bot: FileStoresDLRobot](https://t.me/Cloned bot: FileStoresDLRobot)
+It is repository for chat bot: [@FileStoresDLRobot](https://t.me/Cloned bot: FileStoresDLRobot)
 
-## What it is?
-This repository can be imported to [Bots.Business](https://bots.business) as a worked chat bot.
-
-[Bots.Business](https://bots.business) - it is probably the first CBPaaS - Chat Bot Platform as a Service.
-
-A CBPaaS is a cloud-based platform that enables developers to create chatbots without needing to build backend infrastructure.
+## What's new?
+- upload multiple files in just single click
+- view/delete your upload files
 
 ## Create your own bot for Telegram from this Git repo
 
@@ -16,14 +13,10 @@ How to create bot?
 3. Add Public Key from App as [Deploy key](https://developer.github.com/v3/guides/managing-deploy-keys/#deploy-keys) with read access (and write access for bot exporting if you need it)
 4. Do import for this git repo
 
-Now you can talk with yours new Telegram Bot
-
-See [more](https://help.bots.business/getting-started)
-
 ## Commands - in commands folder
 File name - it is command name (Bot it can be rewritten in command description)
 
-Command can have: `name`, `help`, `aliases` (second names), `answer`, `keyboard`, `scnarios` (for simple logic) and other options.
+Command can have: `start`, `upload`, `myfiles`, `deletefiles`, `deleteusersfiles`, `ban`, `unban`, `maintenance`, `stats`, `broadcast`
 
 ### Command description
 It is file header:
