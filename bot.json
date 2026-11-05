@@ -1,6 +1,6 @@
 {
   "bb_sync_version":"1.0",
-  "name":"FileStoresDLBot",
+  "name":"FileStoresDLRoBot",
   "csv_url":null,
-  "git_remote":"git@github.com:changaniashish/FileStoresDLBot"
+  "git_remote":"git@github.com:changaniashish/FileStoresDLRoBot"
 }
