@@ -1,4 +1,4 @@
-# Bot: @FileStoresDLRobot - File store bot
+## Bot: @FileStoresDLRobot - File store bot
 It is repository for file Store bot: [@FileStoresDLRobot](https://t.me/FileStoresDLRobot)
 
 ## What's new?
