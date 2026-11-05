@@ -1,5 +1,5 @@
-# Cloned bot: FileStoresDLRobot - chat bot
-It is repository for chat bot: [@FileStoresDLRobot](https://t.me/FileStoresDLRobot)
+# Bot: @FileStoresDLRobot - File store bot
+It is repository for file Store bot: [@FileStoresDLRobot](https://t.me/FileStoresDLRobot)
 
 ## What's new?
 - upload multiple files in just single click
