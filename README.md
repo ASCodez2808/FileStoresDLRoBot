@@ -14,7 +14,7 @@ How to create bot?
 4. Do import for this git repo
 
 ## Command description
-It is file header:
+File Store Pro Bot Commands:
 
     start - Check bot alive or not
     upload - Upload multiple files
