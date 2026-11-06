@@ -21,6 +21,7 @@ File Store Bot Commands:
     myfiles - Get my files
     deletefiles - Delete your files
     deleteuserfiles - Delete users files [Admin only]
+    command - Set bot command [Admin only]
     ban - Ban users [Admin only]
     unban - Unban users [Admin only] 
     stats - Bot stats [Admin only]
